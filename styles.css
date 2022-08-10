@@ -1,0 +1,40 @@
+/* THIS IS A PROJECT FOR CODECADEMY */
+/* AUTHOR: SHALE TALIFERO */
+*{
+    font-family: sans-serif;
+}
+
+header{
+    text-align: center;
+    font-size: 25px;
+}
+
+#head th {
+    border: 5px solid seagreen;
+    background-color: seagreen;
+    font-size: 25px;
+  }
+
+#subhead th {
+    border: 5px solid darkseagreen;
+    background-color: darkseagreen;
+    margin: 20px;
+  }
+
+#code{
+    background-color: palegoldenrod;
+    border: 15px solid darkseagreen;
+    font-family: monospace;
+    padding: 5px 15px;
+}
+  
+  td {
+    border: 5px solid darkseagreen;
+    background-color: beige;
+    margin: 20px;
+    padding: 10px 20px;
+  }
+
+
+  
+
